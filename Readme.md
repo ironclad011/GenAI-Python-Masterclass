@@ -21,8 +21,8 @@ To build a comprehensive portfolio of Generative AI applications using Python, L
 * **Day 4:** [Pending]
 
 ### 🏆 Projects Built
-1. **AI-Powered Website Bot** - *RAG pipeline with web scraping and Qdrant.*
-2. **AI Persona Maker** - *Memory-persistent chatbots with custom system prompts.*
-3. **Voice-Powered AI Assistant** - *Real-time voice interactions using Whisper and TTS.*
-4. **Voice-Powered Vibe Coder** - *Voice-to-code generation tool.*
-5. **AI-Powered CLI Cursor** - *Autonomous terminal-based coding agent.*
+1. **AI-Powered Website Bot** - *RAG pipeline with web scraping and Qdrant.* *(Upcoming)*
+2. **AI Persona Maker** - *Memory-persistent chatbots with custom system prompts.* *(Upcoming)*
+3. **Voice-Powered AI Assistant** - *Real-time voice interactions using Whisper and TTS.* *(Upcoming)*
+4. **Voice-Powered Vibe Coder** - *Voice-to-code generation tool.* *(Upcoming)*
+5. **AI-Powered CLI Cursor** - *Autonomous terminal-based coding agent.* *(Upcoming)*
