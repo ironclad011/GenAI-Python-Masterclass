@@ -17,7 +17,7 @@ To build a comprehensive portfolio of Generative AI applications using Python, L
 ### Week 1: AI Fundamentals & The Python GenAI Stack
 * **Day 1:** Project initialization, venv setup, git configuration, and dependency management.
 * **Day 2:** Connected to Google Gemini via LangChain. Explored Tokens, Temperature, and LCEL basics.
-* **Day 3:** [Pending]
+* **Day 3:** Implemented system prompt and chaining using LCEL (|) operator and reterive raw text output using StrOutputParser() method 
 * **Day 4:** [Pending]
 
 ### 🏆 Projects Built
